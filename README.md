@@ -26,3 +26,15 @@ pip3 install -r requirements.txt
 ```sh 
 python3 bot.py
 ```
+
+## Usage
+
+There are two methods to utilize this bot:
+
+### Option 1: Sending the bot a link to your video
+
+Simply send the bot a link to your video.
+
+### Option 2: Using inline mode
+
+Example: `@your_bot_username link to the video`
