@@ -3,11 +3,6 @@ Telegram bot on Telethon that downloads videos from TikTok using the rapidapi.co
 
 Телеграм-бот на Telethon, который скачивает видео с TikTok, используя API rapidapi.com. Также имеется инлайн-режим.
 
-# Brawl Stars Maps Bot
-Telegram bot, which shows information about the current and upcoming map in Showdown mode from the game brawl stars using brawlapi.com
-
-Бот телеграм, который показывает информацию об текущей и предстоящей карте в режиме шд из игры бравл старс используя brawlapi.com
-
 ### Installation
 - Clone this git repository.
 ```sh 
