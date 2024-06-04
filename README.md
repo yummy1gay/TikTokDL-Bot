@@ -21,6 +21,8 @@ pip3 install -r requirements.txt
 - `BOT_TOKEN` - Get it by contacting to [BotFather](https://t.me/botfather)
 - `APP_ID` - You can get this value from my.telegram.org/auth?to=apps
 - `API_HASH` - You can get this value from my.telegram.org/auth?to=apps
+- `X-RapidAPI-Key` - You can get this value from rapidapi.com/llbbmm/api/tiktok-download5/ (200 free requests per month)
+- `X-RapidAPI-Host` - You can get this value from rapidapi.com/llbbmm/api/tiktok-download5/ (200 free requests per month)
 
 ### Run bot
 ```sh 
